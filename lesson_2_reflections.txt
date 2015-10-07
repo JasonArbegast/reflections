@@ -12,3 +12,6 @@ Branches are helpful if you want to make a fairly big change to the file that se
 
 How do the diagrams help you visualize the branch structure?
 When you create many branches, it can get pretty wild. A diagram shows the path back to the master branch and initial commit in a fast manner.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The merge eliminates one branch label and combines many changes together while still preserving all prior commits for both branches.
