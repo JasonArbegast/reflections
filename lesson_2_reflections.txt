@@ -15,3 +15,6 @@ When you create many branches, it can get pretty wild. A diagram shows the path 
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 The merge eliminates one branch label and combines many changes together while still preserving all prior commits for both branches.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+Automatic merging requires Git to make assumptions about some of the conflicts, which makes things far easier but also can lead to issues.
