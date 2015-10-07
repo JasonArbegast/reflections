@@ -9,3 +9,6 @@ You can use git log and git diff to see differences between working directory, s
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 Branches are helpful if you want to make a fairly big change to the file that sends it in a new direction (making Mario the enemy, say). You can maintain the original direction of your file while trying new directions.
+
+How do the diagrams help you visualize the branch structure?
+When you create many branches, it can get pretty wild. A diagram shows the path back to the master branch and initial commit in a fast manner.
