@@ -9,3 +9,6 @@ A branch is a part of a commit of a file. It's a departing from the master branc
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 You can stay as up to date as you want.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Have a sit down or email back and forth. It would be easier to get ideas immediately and spot problems immediately, but it would be harder to track all the changes in an efficient manner.
