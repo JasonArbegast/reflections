@@ -6,3 +6,6 @@ You can pull whenever you're ready. And you don't want it to update while you're
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 A branch is a part of a commit of a file. It's a departing from the master branch line of commits. A clone is a direct copy of a branch or repository. A fork is similar to a clone but will provide kudos to the original file without future commits altering it.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+You can stay as up to date as you want.
