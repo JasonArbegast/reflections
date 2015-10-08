@@ -3,3 +3,6 @@ You may not have your computer with you, or perhaps someone requests behavior yo
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 You can pull whenever you're ready. And you don't want it to update while you're in the middle of working on a file.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+A branch is a part of a commit of a file. It's a departing from the master branch line of commits. A clone is a direct copy of a branch or repository. A fork is similar to a clone but will provide kudos to the original file without future commits altering it.
