@@ -12,3 +12,6 @@ You can stay as up to date as you want.
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Have a sit down or email back and forth. It would be easier to get ideas immediately and spot problems immediately, but it would be harder to track all the changes in an efficient manner.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+You want to make changes in a branch when you have a large change you want to work on over time, or if you want to try something rather different that may not work out. This won't break the main branch of the file, but will still allow the project to work out.
